@@ -1,2 +1,3 @@
 # home-testing
-Test projects at home
+Testing git hub at home
+
